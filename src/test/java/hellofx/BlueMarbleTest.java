@@ -1,3 +1,4 @@
+package hellofx;
 import static org.junit.Assert.*;
 
 import java.io.BufferedReader;
@@ -6,6 +7,8 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 
 import org.junit.Test;
+
+import hellofx.BlueMarble;
 
 public class BlueMarbleTest {
 
